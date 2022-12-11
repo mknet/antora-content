@@ -1,0 +1,10 @@
+name: mk
+title: Marcel Koch
+version: 0.1
+start_page: hello.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc

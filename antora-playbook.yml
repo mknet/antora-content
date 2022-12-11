@@ -1,0 +1,13 @@
+site:
+  title: Marcel Koch - Wissen & Erkenntnisse
+  url: https://erkenntnisse.marcelkoch.net
+  start_page: mk::hello.adoc
+content:
+  sources:
+  - url: .
+    branches: main
+    start_path: antora
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
