@@ -1,3 +1,14 @@
-= Hallo, Gude und Moin
+= Nur hereinspaziert
 
-Worum geht es?
+[abstract]
+== Warum das hier?
+Ich halte hier meine Erkenntnisse, Ansichten und Meinungen fest. Neben dem offensichtlichen Grund, meinen Senf (oder 5 Cent?) ins Web zu drücken, gibt es noch weitere: Zum einen muss ich reflektieren, um meine Ansichten gut zu formulieren. Zum anderen möchte jeden Leser einladen, mit mir zu diskutieren, mich zu verbessern oder Inhalte zu ergänzen. Ich freue mich über jeden Pull Request.
+
+
+== Softwareentwicklung
+
+Meine Erfahrung über die Branche und die Tätigkeit der Softwareentwicklung.
+
+== Menschen und ihre Beweggründe
+
+Ich versuche mir über Beobachtungen und der Beschäftigung mit Psychologie und Philosophie ein Bild zu Menschen zu machen. Eine wahrscheinlich nie endende Aufgabe.

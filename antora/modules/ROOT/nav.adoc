@@ -1,1 +1,1 @@
-* xref:communication.adoc[]
+* xref:hello.adoc[]

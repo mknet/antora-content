@@ -8,3 +8,5 @@ asciidoc:
     table-caption: false
 nav:
 - modules/ROOT/nav.adoc
+- modules/software/nav.adoc
+- modules/people/nav.adoc
