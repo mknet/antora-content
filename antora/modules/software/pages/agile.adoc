@@ -1,0 +1,8 @@
+= Agile
+
+Aus dem Thema agile Methoden und agile Organisation können wir ein riesiges Thema zu machen. Wichtig ist mir hierbei, die Grundsätze nicht zu vergessen. Der für mich wichtigstes von allen ist
+
+== Flexibilität
+
+Schon aus dem Begriff _Agile_ lässt sich ableiten, dass eine Flexibilität von Nöten ist. Damit meine ich Flexibilität in Plänen und Ausrichtungen. Gerne spreche ich auch von der "Möglichkeit gegensteuern zu können". Wir haben eine Idee wie wir ein Ziel erreichen können. Nun ändern sich Rahmenbedingungen, Möglichkeiten der Umsetzung oder vielleicht auch das Ziel (durch geänderte Rahmenbedingungen). Wir müssen in der Lage sein, auf diese Änderungen zu reagieren. Sind wir nicht dazu in der Lage, brauchen wir - aus meiner bescheidenen Sicht - uns gar nicht um weitere Themen zu kümmern.
+Nun kann das Zeitfenster, innerhalb dessen wir gegensteuern wollen, von jedem selbst definiert werden. Typische Scrum-Sprints sind zwei Wochen. _Program Increments_ nach SAFe hingegen werden mit 8 - 12 Wochen angestrebt. Ich persönlich würde nicht länger als vier Wochen veranschlagen, bin aber auch kein Freund von SAFe.
