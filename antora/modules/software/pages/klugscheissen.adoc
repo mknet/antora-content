@@ -2,4 +2,4 @@
 
 Auch wenn es nicht immer gut ankommt, hier ein paar Haarspaltereien:
 
-# Cache leeren und Cache löschen ist nicht das gleiche.
+. Cache leeren und Cache löschen ist nicht das gleiche.
